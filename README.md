@@ -68,8 +68,7 @@ The dataset/API provides:
 
 ## 📊 Dashboard Preview
 Here’s a preview of the interactive Weather Dashboard:  
-
-![Weather Dashboard](https://github.com/your-username/your-repo-name/blob/main/images/weather_dashboard.png)
+![Weather Dashboard](https://github.com/Ashh0508/Weather-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20dashboard%20(2).png)
 
 ---
 
